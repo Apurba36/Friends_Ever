@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "398613190976",
+    "project_id": "friend-ever",
+    "storage_bucket": "friend-ever.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398613190976:android:46dd400541076ae2f242a5",
+        "android_client_info": {
+          "package_name": "com.example.friends_ever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398613190976-0rhn6s25s10phlghpdnnr7ki0nv29d35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.friends_ever",
+            "certificate_hash": "91956bc7ae3804f6704f7d0823e57c254121728b"
+          }
+        },
+        {
+          "client_id": "398613190976-n6k8b18kd103jkgif0968k4rl193t8nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR5JWMgaxDa99aa41bEpHFSX2-_O-FEyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398613190976-n6k8b18kd103jkgif0968k4rl193t8nc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398613190976-c2pvsicagdr2nhnqcerqgv91rmmgkacn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.friendsEver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
